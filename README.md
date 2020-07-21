@@ -7,7 +7,7 @@ const glbrtjose = {
     pronouns: "he" | "him",
     code: [
         Javascript, Typescript, HTML, CSS, Ruby (I wish), Python, Java],
-        tools: [React (soon), Redux (almost there),
+        tools: [Angular, IOnic, React (soon), Redux (almost there),
         Node (kind of.. and by that I mean nestjs),
         Storybook (wth is this, heard from it somewhere),
         Styled-Components (nope), Jest (Jezz),
@@ -19,7 +19,7 @@ const glbrtjose = {
         speaker: "Latinity",
         mentor: "RailsGirls POA"
     },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+    challenge: "Give me a sec..."
 }
 ```
 
