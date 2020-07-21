@@ -2,18 +2,25 @@
 
 ```javascript
 const glbrtjose = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby (I wish), Python, Java],
-  tools: [React (soon), Redux (almost there), Node (kind of.. and by that I mean nestjs), Storybook (wth is this, heard from it somewhere), Styled-Components (nope), Jest (Jezz), Docker (podman but know none of them, but soon i will...)],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
+    pronouns: "he" | "him",
+    code: [
+        Javascript, Typescript, HTML, CSS, Ruby (I wish), Python, Java],
+        tools: [React (soon), Redux (almost there),
+        Node (kind of.. and by that I mean nestjs),
+        Storybook (wth is this, heard from it somewhere),
+        Styled-Components (nope), Jest (Jezz),
+        Docker (podman but know none of them, but soon i will...)
+    ],
+    architecture: ["microservices", "event-driven", "design system pattern"],
+    techCommunities: {
+        coorganizer: "AfroPython",
+        speaker: "Latinity",
+        mentor: "RailsGirls POA"
+    },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
+
 <!--JS
 **glbrtjose/glbrtjose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
