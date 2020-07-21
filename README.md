@@ -2,9 +2,9 @@
 
 ```javascript
 const glbrtjose = {
-  pronouns: "she" | "her",
+  pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Ruby (I wish), Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  tools: [React (soon), Redux (almost there), Node (kind of.. and by that I mean nestjs), Storybook (wth is this, heard from it somewhere), Styled-Components (nope), Jest (Jezz), Docker (podman but know none of them, but soon i will...)],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         coorganizer: "AfroPython",
