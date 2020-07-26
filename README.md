@@ -1,5 +1,5 @@
 ### Just another codenaut 👋
-<h2 style="color:red;">lets see</h2>
+lets see
 ```javascript
 const glbrtjose = {
     pronouns: "he" | "him",
